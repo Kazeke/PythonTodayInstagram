@@ -14,8 +14,8 @@ from selenium.webdriver.support import expected_conditions as EC
 # replace 'user:pass@ip:port' with your information
 options = {
     'proxy': {
-        'http': 'http://FJ0mfH:7UDSfj@194.62.66.183:8000',
-        'https': 'https://FJ0mfH:7UDSfj@194.62.66.183:8000',
+        'http': 'http://YkFP84:jEMbsq@103.74.76.49:8000',
+        'https': 'https://YkFP84:jEMbsq@103.74.76.49:8000',
         'no_proxy': 'localhost,127.0.0.1'
     }
 }
